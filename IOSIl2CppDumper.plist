@@ -1,7 +1,7 @@
 {
     Filter =     {
         Bundles =         (
-            "com.kiloo.subwaysurfers"
+            "com.ChillyRoom.DungeonShooter"
         );
     };
 }
